@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-App-Fitch-products-from-Fake-Store-API/static/css/main.e6c13ad2.css",
+    "main.js": "/React-App-Fitch-products-from-Fake-Store-API/static/js/main.ecc2a4fe.js",
+    "static/js/787.ff12afa8.chunk.js": "/React-App-Fitch-products-from-Fake-Store-API/static/js/787.ff12afa8.chunk.js",
+    "index.html": "/React-App-Fitch-products-from-Fake-Store-API/index.html",
+    "main.e6c13ad2.css.map": "/React-App-Fitch-products-from-Fake-Store-API/static/css/main.e6c13ad2.css.map",
+    "main.ecc2a4fe.js.map": "/React-App-Fitch-products-from-Fake-Store-API/static/js/main.ecc2a4fe.js.map",
+    "787.ff12afa8.chunk.js.map": "/React-App-Fitch-products-from-Fake-Store-API/static/js/787.ff12afa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ecc2a4fe.js"
+  ]
+}
